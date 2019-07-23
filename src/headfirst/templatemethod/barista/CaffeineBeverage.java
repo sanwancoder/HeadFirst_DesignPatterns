@@ -8,7 +8,7 @@ public abstract class CaffeineBeverage {
 		pourInCup();
 		addCondiments();
 	}
- 
+
 	abstract void brew();
   
 	abstract void addCondiments();

@@ -10,9 +10,11 @@ public abstract class CaffeineBeverageWithHook {
 			addCondiments();
 		}
 	}
- 
+
+
 	abstract void brew();
- 
+
+
 	abstract void addCondiments();
  
 	void boilWater() {
